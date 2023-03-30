@@ -17,3 +17,10 @@ body {
     text-align: center;
 }
 
+h1 {
+    font-size: 2.7rem;
+}
+
+.highlight {
+    color: #146c2f;
+}
