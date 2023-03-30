@@ -5,6 +5,7 @@ h1, h2, h3, h4, h5, h6, p, a {
 
 body {
     background-color: #c5e1c5;
+    padding-bottom: 10vh;
 }
 
 #content {
@@ -22,5 +23,21 @@ h1 {
 }
 
 .highlight {
-    color: #146c2f;
+    color: #105625;
+}
+
+/* Resource styles */
+.resource {
+    padding: .3em .7em;
+    border-radius: .8em;
+    background-color: #dee0e2;
+    color: #000;
+}
+
+li {
+    line-height: 3em;
+}
+
+ul {
+    list-style-type: none;
 }
